@@ -1,2 +1,3 @@
 # SimpleMicroServices
-API with microservices
+only API is used with microservices
+-Author: Rajeev Ranjan
