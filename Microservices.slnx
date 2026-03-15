@@ -1,0 +1,9 @@
+<Solution>
+  <Folder Name="/Product.API/">
+    <Project Path="Product.API/Product.API.csproj" Id="40d6c5dd-3ae8-4518-9b54-ef33355824a6" />
+  </Folder>
+  <Folder Name="/ShoppingCart.UI/">
+    <Project Path="ShoppingCart.UI/ShoppingCart.csproj" Id="02539f49-28c4-41b4-81e2-84dd9d68d0b1" />
+  </Folder>
+  <Project Path="APIGateway/APIGateway.csproj" Id="d0cb037d-d55e-4d4b-b18a-03e2f6d022d4" />
+</Solution>
